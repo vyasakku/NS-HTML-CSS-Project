@@ -1,3 +1,4 @@
 # NS-HTML-CSS-Project
 
-Just download or i must have shared a link
+Just download or the whole forlder as a zip somewhere
+
